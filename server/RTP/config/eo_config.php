@@ -26,6 +26,6 @@ defined('WEBSITE_NAME') or define('WEBSITE_NAME', '接口文档');
 //数据表前缀
 defined('DB_TABLE_PREFIXION') or define('DB_TABLE_PREFIXION', 'eo');
 
-//语言
+//语言 中文简体:zh-cn 中文繁體:zh-hk English:en
 defined('LANGUAGE') or define ('LANGUAGE', 'zh-cn');
 ?>
