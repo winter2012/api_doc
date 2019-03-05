@@ -24,6 +24,7 @@ defined('WEBSITE_NAME') or define('WEBSITE_NAME', 'eoLinker接口管理工具开
         var allowRegister =<?php echo ALLOW_REGISTER ? 'true' : 'false'; ?>;
         var allowUpdate =<?php echo ALLOW_UPDATE ? 'true' : 'false'; ?>;
         var language = "<?php echo defined('LANGUAGE') ? LANGUAGE : 'zh-cn'; ?>";
+        var myTitle = "<?php echo defined('WEBSITE_NAME') ? WEBSITE_NAME : ' '; ?>";
     </script>
 </head>
 </head>
