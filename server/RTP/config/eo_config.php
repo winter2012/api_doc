@@ -21,7 +21,7 @@ defined('ALLOW_REGISTER') or define('ALLOW_REGISTER', TRUE);
 defined('ALLOW_UPDATE') or define('ALLOW_UPDATE', TRUE);
 
 //网站名称
-defined('WEBSITE_NAME') or define('WEBSITE_NAME', 'api_doc');
+defined('WEBSITE_NAME') or define('WEBSITE_NAME', '接口文档');
 
 //数据表前缀
 defined('DB_TABLE_PREFIXION') or define('DB_TABLE_PREFIXION', 'eo');
