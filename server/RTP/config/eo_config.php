@@ -1,6 +1,6 @@
 <?php
 //主机地址
-defined('DB_URL') or define('DB_URL', 'localhost');
+defined('DB_URL') or define('DB_URL', '127.0.0.1');
 
 //主机端口,默认mysql为3306
 defined('DB_PORT') or define('DB_PORT', '3306');
