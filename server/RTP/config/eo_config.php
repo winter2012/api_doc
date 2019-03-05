@@ -23,6 +23,9 @@ defined('ALLOW_UPDATE') or define('ALLOW_UPDATE', TRUE);
 //网站名称
 defined('WEBSITE_NAME') or define('WEBSITE_NAME', '接口文档');
 
+//网站主题
+defined('WEBSITE_THEME') or define('WEBSITE_THEME', '接口文档管理');
+
 //数据表前缀
 defined('DB_TABLE_PREFIXION') or define('DB_TABLE_PREFIXION', 'eo');
 
